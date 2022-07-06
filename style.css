@@ -130,8 +130,47 @@ input{
 }
 hr{
       margin-left: 23%;
-      margin-right: 20%;
+      margin-right: 18%;
 }
+#card{
+      display: flex;
+      padding: 5px;
+      margin-top: 60px;
+      
+     
+}
+.card3{
+      background-color: blanchedalmond;
+      margin-left:80px;
+      margin-right: 60px;
+      width: 18%;
+      height: 300px;
+      padding: 50px;
+
+}
+.card2{
+      background-color:pink;
+      margin-left:80px;
+      margin-right: 60px;
+      width: 18%;
+      height: 300px;
+      padding: 50px;
+
+}
+.card1{
+      background-color: rgb(115, 185, 215);
+      margin-left:80px;
+      margin-right: 60px;
+      width: 18%;
+      height: 300px;
+      padding: 50px;
+}
+    
+    
+    
+   
+     
+   
 
 
 
