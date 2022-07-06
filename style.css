@@ -109,11 +109,12 @@ margin: 0 auto;
 
 
 }
-input{
+.into{
       border-top-style: hidden;
         border-right-style: hidden;
         border-left-style: hidden;
         border-bottom-style: hidden;
+        border-color:hidden;
 }
 .doner{
       background-color: brown;
@@ -165,6 +166,58 @@ hr{
       height: 300px;
       padding: 50px;
 }
+.into2{
+      border-top-style: hidden;
+      border-right-style: hidden;
+      border-left-style: hidden;
+      border-bottom-style: groove;
+      background-color: #eee;
+    }
+
+  .subcribe-box{
+      width: 50%;
+      height: 20vh;
+      margin: 0 auto;
+      background-color: #ffce99;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-top: 30px;
+    
+  }
+  #email-box{
+      width: 200px;
+      height: 30px;
+      background-color: #ddd;
+      border: none;
+      outline: none;
+      padding: 5px;
+  }
+  #sub-btn{
+      width: 80px;
+      height: 40px;
+      background-color: rgb(212, 59, 59);
+      border: none;
+      outline: none;
+      padding: 5px;
+      color: #fff;
+      cursor: pointer;
+  }
+    
+    .footer{
+      margin-top: 100px;
+      padding: 40px;
+      background-color: black;
+      text-align: center;
+      color: white;
+
+}
+    .footer h1{
+      color:tomato;
+    }
+    .footer p{
+      color: grey;
+    }
     
     
     
