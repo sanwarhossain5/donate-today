@@ -2,6 +2,16 @@
       padding: 0px;
       margin: 0px;
 }
+body{
+      font-family: 'Gulzar', serif;
+font-family: 'Lato', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'PT Serif', serif;
+font-family: 'Roboto Mono', monospace;
+
+
+}
 .banner-one{
       background-image: url(images/hero.png);
   padding: 200px 0;
@@ -18,14 +28,26 @@
       margin: 0 auto;
      
 }
-.header h1{
-      font-size: 60px;
+.h1{
+      font-size: 40px;
+      
       
 }
-.header p{
+.p2{
+     font-size: 100%;
+     margin-top: 20px;
+     padding: 40px;
 
 }
 .btn{
+      background-color:tomato;
+      padding: 15px 20px;
+      text-align: center;
+      color: white;
+      text-decoration: none;
+      font-size: 20px;
+      border-radius: 10px;
+
 
 }
 .donate{
@@ -41,6 +63,7 @@
 }
 .size2{
       font-size: 20px;
+      margin-top: 30px;
       
 }
 
@@ -78,7 +101,38 @@
 .btn1{
     border-width: 30px;
 }
-<hr style="width:50%;text-align:left;margin-left:0">
+.input-one{
+padding: 50px;
+text-align: center;
+margin: 0 auto;
+
+
+
+}
+input{
+      border-top-style: hidden;
+        border-right-style: hidden;
+        border-left-style: hidden;
+        border-bottom-style: hidden;
+}
+.doner{
+      background-color: brown;
+      padding: 15px 20px;
+      text-align: center;
+      color: white;
+      text-decoration: none;
+      font-size: 20px;
+      border-radius: 10px;
+}
+.doner2{
+      text-align: center;
+      
+}
+hr{
+      margin-left: 23%;
+      margin-right: 20%;
+}
+
 
 
 
